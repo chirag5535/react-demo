@@ -18,16 +18,16 @@ Make sure you have the following installed on your system:
 1. Open the terminal and navigate to the project directory.
 2. Run the following command to install dependencies:
    ```bash
-   sudo npm install --force
+   npm install
 3. Start the development server:
    ```bash
-   sudo npm run start
+   npm run dev
 
 ### Windows:
 1. Open the commandline and navigate to the project directory.
 2. Run the following command to install dependencies:
       ```bash
-      npm install --force
+      npm install
 3. Start the development server:
       ```bash
-      npm run start
+      npm run dev
